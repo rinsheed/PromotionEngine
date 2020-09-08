@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rinsh\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rinsh\\.nuget\\packages"
+    ]
+  }
+}
